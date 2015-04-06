@@ -1,4 +1,4 @@
-public class CupsAndSaucers {
+public class CandA {
 	public static void main(String args[]) {
 		int T[] = { 15, 20, 20, 22, 30, 89 };
 		int S[] = { 10, 19, 26, 30, 35, 90, 95 };
